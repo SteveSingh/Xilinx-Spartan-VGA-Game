@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/student2/sasingh/COE758/Lab2/Game/Game.ncd
+OUTFILE=/home/student2/sasingh/COE758/Lab2/Game/Game.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=/home/student2/sasingh/COE758/Lab2/Game
+LICENSE=ISE
+USER_INFO=174208431_208276007_210569956_644

@@ -1,0 +1,8 @@
+Release 13.3 Drc O.76xd (lin64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Wed Nov 27 16:39:54 2013
+
+drc -z Game.ncd Game.pcf
+
+DRC detected 0 errors and 0 warnings.
